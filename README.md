@@ -12,6 +12,3 @@ The installation of Emacs for Python requires you to have a rudimentary understa
 
 To find or create your .emacs file, type the following keystrokes with eMacs running in the foreground to invoke eMac's "Find File" command: C-c C-f
 -  Then type .emacs
-
-This should create a new .emacs file for you in the event it doesn't already exist.
-
